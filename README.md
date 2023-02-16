@@ -4,5 +4,5 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkr90&theme=blue-green)<br>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=yashkr90)
 
